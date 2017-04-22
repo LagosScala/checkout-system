@@ -2,7 +2,7 @@ Please complete the following exercise. Don't read ahead. At each stage build th
 
 
 
-**Step 1: Shopping cart
+**Step 1: Shopping cart**
 
 You are building a checkout system for a shop which only sells apples and oranges.  
 
